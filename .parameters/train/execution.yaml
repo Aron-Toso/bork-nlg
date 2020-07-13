@@ -1,7 +1,7 @@
 schema_version: 2.0.0
 nodes: 1000
 cpu_per_node: 8
-ram_per_nodeS: 64Gi
+ram_per_node: 64Gi
 gpu_required: true
 output_path: models/output
 training_params:
